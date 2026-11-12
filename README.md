@@ -7,7 +7,7 @@ An end-to-end data analytics and business intelligence project analyzing logisti
 ---
 
 ## 📊 Dashboard Preview
-![E-Commerce Delivery & Shipping Performance Dashboard](olist-dashboard.jpg)
+![E-Commerce Delivery & Shipping Performance Dashboard](olist-dashboard.png)
 
 ---
 
